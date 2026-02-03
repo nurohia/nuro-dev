@@ -2,7 +2,7 @@
 set -e
 
 # =================配置区域=================
-PANEL_PORT="4794"
+PANEL_PORT="4796"
 DEFAULT_USER="admin"
 DEFAULT_PASS="123456"
 
